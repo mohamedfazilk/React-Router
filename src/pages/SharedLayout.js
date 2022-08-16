@@ -5,7 +5,13 @@ import Navbar from '../components/Navbar';
 const Home = () => {
     return (
         <>
-        <h2>home page </h2>
+        <Navbar/>
+        
+         
+        
+          <Outlet/>
+  
+     
         </>
        
 
