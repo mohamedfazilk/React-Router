@@ -33,4 +33,5 @@ const products = [
         'https://dl.airtable.com/.attachmentThumbnails/a6119fabf7256049cc0e8dbcdf536c9c/b0153f66',
     },
   ];
+  export default products;
   
