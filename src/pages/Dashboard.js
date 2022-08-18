@@ -1,9 +1,9 @@
 import React from 'react'
 
-const Dashboard = () => {
+const Dashboard = ({user}) => {
     return (
         <section>
-            <h2>Dashboard</h2>
+            <h4>Hello, {user?.name}</h4>
         </section>
 
     )

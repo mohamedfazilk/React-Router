@@ -7,6 +7,8 @@ import Products from "./pages/Products";
 import Error from "./pages/Error";
 import SharedLayout from './pages/SharedLayout';
 import SingleProduct from "./pages/SingleProduct";
+import Login from './pages/Login';
+import Dashboard from './pages/Dashboard';
 
 function App() {
   const [user, setUser] = useState(null)
